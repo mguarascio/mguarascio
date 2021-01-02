@@ -1,0 +1,4 @@
+baseURL = "https://mguarascio.com"
+languageCode = "en-us"
+title = "Mike Guarascio"
+theme = "ink"
